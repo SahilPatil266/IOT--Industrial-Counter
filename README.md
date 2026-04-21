@@ -1,4 +1,4 @@
-IoT Industrial Counter
+IoT Industrial Counter: 
 A real-time automated counting system built for the textile manufacturing industry to eliminate manual counting errors on the production floor.
 
 The Problem-
